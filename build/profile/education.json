@@ -1,0 +1,24 @@
+{
+    "education":[
+        {
+            "title": "2022 – June 2023",
+            "cardTitle": "Certified Data Science Engineer",
+            "cardSubtitle":"Develhope",
+            "cardDetailedText": "Theoretical but also a practical Data Engineering course with opportunities to develop projects together as a team."
+
+        },
+        {
+            "title": "2022 – June 2023",
+            "cardTitle": "Master’s Degree, Informatics Department",
+            "cardSubtitle":"Istanbul University",
+            "cardDetailedText": "GPU - 3.8; Data Science, Data Engineering and Machine Learning Skills"
+        },
+                {
+            "title": "2022 – June 2023",
+            "cardTitle": "Bachelor Degree, ICT Department",
+            "cardSubtitle":"University of Burundi",
+            "cardDetailedText": "Computer Programming and Computer Networking Skills"
+
+        }
+    ]
+}

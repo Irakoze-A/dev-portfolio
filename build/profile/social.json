@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/aristide-irakoze/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Irakoze-A"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:irakozestige@gmail.com"
+        }
+    ]
+}
