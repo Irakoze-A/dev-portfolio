@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "title": "Wimax Engineer",
+            "subtitle": "Lacell SU",
+            "workType": "Full-time",
+            "workDescription": [
+                "Establishment and maintenance of internet access via Wimax",
+                "Reduce WIMAX unit costs by optimizing resources",
+                "Lead the Wimax team and ensure cohesion with other departments"
+            ],
+            "dateText": "January 2021-July 2021"
+        },
+        {
+            "title": "IT Engineer",
+            "subtitle": "Lacell SU",
+            "workType": "Full-time",
+            "workDescription": [
+                "Implementation and Troubleshoot of network infrastructures",
+                "Detailed and daily reports on the status of the network Sub-systems"
+            ],
+            "dateText": "2020-January 2021"
+        },
+        {
+            "title": "Computer Science Teacher",
+            "subtitle": "ETAU Technical School",
+            "workType": "Half-time",
+            "workDescription": [
+                    "Organization and realization of theoretical and practical lessons",
+                    "Assessment of learners' skills and reinforcement sessions"
+            ],
+            "dateText": "2018-February 2019"
+        }
+    ]
+}
